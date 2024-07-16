@@ -18,14 +18,15 @@
 ### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=felipemateus4&theme=onedark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📚 Latest GitHub Gists:
-[![Gists](https://github-readme-gists.vercel.app/api/gists?id=YOUR_GIST_ID)](https://gist.github.com/felipemateus4)
-
 ### ✨ GitHub Profile Summary Card:
-[![Felipe's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipemateus4&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Felipe's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=felipemateus4&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🔝 Repos
 ![](https://github-contributor-stats.vercel.app/api?username=felipemateus4&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+
+### 🎨 Fun Facts:
+- 🚀 I love working on innovative projects that challenge me to learn and grow.
+- 🎮 In my free time, I enjoy playing video games and exploring new technologies.
 
 ### 👀 Profile View Counter:
 ![](https://komarev.com/ghpvc/?username=felipemateus4&color=blueviolet)
