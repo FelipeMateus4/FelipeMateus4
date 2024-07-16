@@ -15,6 +15,9 @@
 ![Felipe's Most Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipemateus4&theme=radical)
 ![Felipe's Recent Activity](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipemateus4&theme=radical)
 
+### 🚀 Linguagens Mais Usadas:
+![Felipe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemateus4&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
 ### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=felipemateus4&theme=onedark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
