@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sans&weight=100&size=25&pause=1000&color=079EF7&width=435&lines=Hi%2C+I'm+Felipe+Mateus!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+### Hi, I'm Felipe Mateus! 👋
 ### 🔷 About Me:
 📖 I’m currently studying Computer Science at UFLA.<br>
 🌮 I have experience with TypeScript, JavaScript, Java, React, Node.js, Nest,js, PostgreSQL, MySQL, MongoDB, SpringBoot and more.<br>
