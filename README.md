@@ -2,7 +2,7 @@
 ### Hi, I'm Felipe Mateus! 👋
 ### 🔷 About Me:
 📖 I’m currently studying Computer Science at UFLA.<br>
-🌮 I have experience with TypeScript, JavaScript, Java, Python, React, Node.js, Nest.js, PostgreSQL, MySQL, MongoDB, DynamoDB SpringBoot and more.<br>
+🌮 I have experience with TypeScript, JavaScript, Java, Python, React, Node.js, Nest.js, PostgreSQL, MySQL, MongoDB, DynamoDB, SpringBoot and more.<br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mateus-maximiniano-e-silva-ribeiro-545859282/)
